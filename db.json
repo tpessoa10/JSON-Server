@@ -2,15 +2,6 @@
   "topicos":[
     [
     {
-      "id": "0d605a15-7e8f-41b0-b94a-d7652a6b7c03",
-      "titulo": "Java <3",
-      "conteudo": "Java é bom",
-      "data": "28/09/2023",
-      "likes": 10,
-      "dislikes": 0,
-      "saldo": 10
-    },
-    {
       "id": "01cedd66-8486-4011-a1d4-fc11d6cc27af",
       "titulo": "React é chato",
       "conteudo": "To brincando...",
